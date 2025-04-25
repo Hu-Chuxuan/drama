@@ -106,7 +106,7 @@ To evaluate agent outputs, run the following command:
 python3 evaluation/eval.py --task [qa|verification] --report_folder [path/to/output_root]
 ```
 
-This script will aggregate results across all task IDs (1–100) and generate an `overall_result.json` file in the specified output directory.
+This script will aggregate results across all task IDs and generate an `overall_result.json` file in the specified output directory.
 
 Each entry in `overall_result.json` summarizes the evaluation for a specific task ID. For example:
 

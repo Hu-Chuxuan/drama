@@ -192,9 +192,9 @@ def evaluation(task, id, report_folder):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", type=str, default="verification", choices=["verification", "qa"])
-    parser.add_argument("--id", type=int, default=1)
     parser.add_argument("--report_folder", type=str, default="../drama-bot/reports")
 
     args = parser.parse_args()
 
-    evaluation(args.task, args.id, args.report_folder)
+    for id in range(1, 101):
+        evaluation(args.task, id, args.report_folder)
