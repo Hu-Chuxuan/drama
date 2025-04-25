@@ -6,9 +6,7 @@ This directory contains the implementation of **DramaBot**, a multi-agent system
 2. **Structured data transformation**
 3. **Analytic reasoning**
 
-<p align="center">
-  <img src="../assets/dramabot.png" alt="DramaBot Architecture" width="60%"/>
-</p>
+<img src="../assets/dramabot.png" alt="DramaBot Architecture" width="60%"/>
 
 
 ## 🧠 System Overview
