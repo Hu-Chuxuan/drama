@@ -1,0 +1,209 @@
+flagCode,country,educationRankingsByCountry_WT20rank2024,LiteracyRateAllGenders,literacyRateByCountry_dataYear
+KR,South Korea,1,,
+DK,Denmark,2,,
+NL,Netherlands,3,,
+BE,Belgium,4,,
+SI,Slovenia,5,100,2015
+JP,Japan,6,,
+DE,Germany,7,,
+FI,Finland,8,,
+NO,Norway,9,,
+IE,Ireland,10,,
+SG,Singapore,11,97,2020
+GB,United Kingdom,12,,
+CN,China,13,97,2020
+HK,Hong Kong,14,,
+SE,Sweden,15,,
+FR,France,16,,
+AU,Australia,17,,
+IS,Iceland,18,,
+CA,Canada,19,,
+ES,Spain,20,99,2020
+IL,Israel,21,92,2011
+RU,Russia,22,100,2021
+PL,Poland,23,100,2021
+PT,Portugal,24,97,2021
+LV,Latvia,25,100,2021
+EE,Estonia,26,100,2021
+NZ,New Zealand,27,,
+CH,Switzerland,28,,
+LT,Lithuania,29,100,2021
+HU,Hungary,30,99,2021
+US,United States,31,,
+TW,Taiwan,32,99,2014
+GR,Greece,33,98,2018
+CZ,Czech Republic,34,99,2011
+AT,Austria,35,,
+IT,Italy,36,99,2018
+TR,Turkey,37,97,2019
+AR,Argentina,38,99,2018
+MX,Mexico,39,95,2020
+CL,Chile,40,97,2022
+SK,Slovakia,41,,
+LU,Luxembourg,42,,
+KZ,Kazakhstan,43,100,2020
+CR,Costa Rica,44,98,2021
+SA,Saudi Arabia,45,98,2020
+GD,Grenada,46,99,2014
+BN,Brunei,47,98,2021
+SM,San Marino,48,100,2022
+FJ,Fiji,49,99,2018
+WS,Samoa,50,99,2021
+SC,Seychelles,51,96,2020
+MN,Mongolia,52,99,2020
+VN,Vietnam,53,96,2022
+EC,Ecuador,54,94,2022
+MT,Malta,55,95,2021
+NP,Nepal,56,71,2021
+BY,Belarus,57,100,2019
+OM,Oman,58,97,2022
+KN,Saint Kitts and Nevis,59,,
+MV,Maldives,60,98,2021
+LK,Sri Lanka,61,,2022
+MO,Macau,62,,2021
+UZ,Uzbekistan,63,100,2022
+KG,Kyrgyzstan,64,100,2019
+VC,Saint Vincent and the Grenadines,65,97,1980
+AL,Albania,66,99,2022
+ID,Indonesia,67,96,2020
+RS,Serbia,68,99,2019
+TL,Timor-Leste,69,70,2020
+GE,Georgia,70,100,2022
+PH,Philippines,71,96,2019
+KI,Kiribati,72,,
+DZ,Algeria,73,81,2018
+CO,Colombia,74,96,2020
+AG,Antigua and Barbuda,75,99,2015
+HR,Croatia,76,99,2021
+PE,Peru,77,94,2020
+MU,Mauritius,78,92,2021
+GI,Gibraltar,79,,
+ME,Montenegro,80,99,2021
+IR,Iran,81,89,2022
+BH,Bahrain,82,98,2022
+LI,Liechtenstein,83,,
+EG,Egypt,84,75,2022
+BZ,Belize,85,81,2001
+AZ,Azerbaijan,86,100,2023
+TJ,Tajikistan,87,100,2015
+BT,Bhutan,88,72,2022
+MY,Malaysia,89,95,2019
+KE,Kenya,90,83,2022
+QA,Qatar,91,94,2017
+NR,Nauru,92,,
+KW,Kuwait,93,96,2020
+DM,Dominica,94,,
+BO,Bolivia,95,94,2020
+DO,Dominican Republic,96,95,2022
+LC,Saint Lucia,97,,
+AM,Armenia,98,100,2020
+RO,Romania,99,99,2021
+VG,British Virgin Islands,100,,
+IN,India,101,74,2022
+LA,Laos,102,88,2022
+UY,Uruguay,103,99,2019
+TN,Tunisia,104,84,2021
+SZ,Eswatini,105,89,2020
+GH,Ghana,106,80,2020
+TH,Thailand,107,94,2021
+MD,Moldova,108,100,2021
+MM,Myanmar,109,89,2019
+KP,North Korea,110,,2015
+VE,Venezuela,111,98,2022
+SV,El Salvador,112,90,2020
+MA,Morocco,113,77,2022
+ZA,South Africa,114,90,2021
+JM,Jamaica,115,89,2015
+PA,Panama,116,96,2019
+SB,Solomon Islands,117,77,1999
+CV,Cape Verde,118,91,2022
+ST,Sao Tome and Principe,119,94,2022
+KH,Cambodia,120,84,2022
+TG,Togo,121,67,2019
+BD,Bangladesh,122,75,2020
+PG,Papua New Guinea,123,64,2015
+TV,Tuvalu,124,,
+SL,Sierra Leone,125,49,2022
+GT,Guatemala,126,84,2022
+JO,Jordan,127,98,2021
+SR,Suriname,128,95,2021
+LS,Lesotho,129,82,2022
+BJ,Benin,130,47,2022
+YE,Yemen,131,70,2015
+HN,Honduras,132,89,2019
+RW,Rwanda,133,76,2021
+BG,Bulgaria,134,98,2021
+CI,Ivory Coast,135,90,2019
+PK,Pakistan,136,58,2019
+DJ,Djibouti,137,,
+SD,Sudan,138,61,2018
+MR,Mauritania,139,67,2021
+BB,Barbados,140,100,2014
+CM,Cameroon,141,78,2020
+ER,Eritrea,142,77,2018
+BF,Burkina Faso,143,34,2021
+CU,Cuba,144,100,2021
+BR,Brazil,145,94,2022
+AF,Afghanistan,146,37,2021
+NE,Niger,147,38,2022
+MG,Madagascar,148,77,2022
+TZ,Tanzania,149,82,2022
+LR,Liberia,150,48,2017
+BI,Burundi,151,76,2022
+KM,Comoros,152,62,2022
+MH,Marshall Islands,153,98,2011
+SN,Senegal,154,58,2022
+ML,Mali,155,31,2020
+UG,Uganda,156,81,2021
+BS,Bahamas,157,,
+GM,Gambia,158,59,2022
+MZ,Mozambique,159,63,2021
+TD,Chad,160,27,2022
+CF,Central African Republic,161,37,2020
+GN,Guinea,162,45,2021
+CY,Cyprus,163,99,2021
+AE,United Arab Emirates,164,98,2022
+AW,Aruba,165,98,2020
+UA,Ukraine,166,100,2021
+MK,North Macedonia,167,98,2020
+NU,Niue,168,,
+TM,Turkmenistan,169,99,2015
+TT,Trinidad and Tobago,170,98,2000
+GY,Guyana,171,90,2022
+PR,Puerto Rico,172,92,2021
+PW,Palau,173,97,2015
+LB,Lebanon,174,95,2019
+BA,Bosnia and Herzegovina,175,98,2022
+MW,Malawi,176,68,2022
+NA,Namibia,177,92,2021
+VU,Vanuatu,178,89,2021
+ET,Ethiopia,179,52,2017
+PY,Paraguay,180,95,2020
+PS,Palestine,181,,2022
+TO,Tonga,182,99,2021
+BM,Bermuda,183,,
+CG,Republic of the Congo,184,81,2021
+BW,Botswana,185,89,2015
+GQ,Equatorial Guinea,186,95,2015
+LY,Libya,187,91,2015
+IQ,Iraq,188,,2017
+NI,Nicaragua,189,83,2015
+FM,Micronesia,190,,
+NG,Nigeria,191,62,2018
+ZW,Zimbabwe,192,90,2021
+HT,Haiti,193,62,2016
+GA,Gabon,194,86,2022
+GW,Guinea-Bissau,195,54,2022
+AO,Angola,196,72,2022
+SY,Syria,197,86,2015
+ZM,Zambia,198,88,2020
+CD,DR Congo,200,81,2022
+AD,Andorra,201,100,2016
+SS,South Sudan,202,35,2018
+SO,Somalia,203,41,2022
+NC,New Caledonia,,97,2015
+GU,Guam,,100,2000
+KY,Cayman Islands,,99,2021
+GL,Greenland,,100,2015
+AS,American Samoa,,97,1980
+,Total,,72.91123976895172,

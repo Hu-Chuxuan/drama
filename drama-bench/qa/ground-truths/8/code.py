@@ -1,0 +1,1 @@
+average_fires = df["Fires"].mean()

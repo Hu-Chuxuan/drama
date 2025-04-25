@@ -1,0 +1,1 @@
+res = df[df["Year"] == 2022]["Cottage cheese"].values[0]

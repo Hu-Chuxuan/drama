@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["Racial Makeup"]=="More than 75%"]["Advanced Academic Courses (%)"]

@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["Category"]=="All sworn SROs"]["Conducted searches"]

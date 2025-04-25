@@ -1,0 +1,1 @@
+veterans_unemployment_2023 = df[df["Year"] == 2023]["Veteran Unemployment Rate (%)"].values[0]

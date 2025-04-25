@@ -1,0 +1,1 @@
+res = df[df["Fiscal Year"] == 2024].values[0]

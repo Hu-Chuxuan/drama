@@ -1,0 +1,1 @@
+res = df[df["Age Group"] == "16 to 19"]["2022"].values[0] + df[df["Age Group"] == "20 to 24"]["2022"].values[0]

@@ -1,0 +1,1 @@
+res = df[df["Industry"] == "Public sector"]["Average Tenure"].values[0]

@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["Level of educational attainment"]=="Some college or associate's degree"]["Percent of people who have achieved education"]

@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["Annual median wage"].idxmax()]["Occupation title"]

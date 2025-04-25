@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "claim": "We’re losing 300,000 people a year to fentanyl that comes through our border.",
+        "label": false
+    },
+    {
+        "id": 2,
+        "claim": "The number of drug overdose deaths per year is hovering around 100,000 to 110,000.",
+        "label": true
+    },
+    {
+        "id": 3,
+        "claim": "In February 2024 alone, nearly 1 million jobs held by native-born Americans disappeared.",
+        "label": false
+    },
+    {
+        "id": 4,
+        "claim": "The household survey statistic shows that in February 2024, the employment level for native-born Americans fell by 494,000.",
+        "label": true
+    },
+    {
+        "id": 5,
+        "claim": "Eighty-two percent of the country (the United States) understands that the 2020 election was a rigged election.",
+        "label": false
+    },
+    {
+        "id": 6,
+        "claim": "A June Monmouth University poll found that 30% of respondents believe Biden won the 2020 election because of voter fraud.",
+        "label": true
+    },
+    {
+        "id": 7,
+        "claim": "About 1% of federal employees are actually working in the office as of December 2024.",
+        "label": false
+    },
+    {
+        "id": 8,
+        "claim": "About 14% of federal employees work remotely full time during 2023.",
+        "label": true
+    },
+    {
+        "id": 9,
+        "claim": "The federal workforce grew from 2.1 to 3 million under President Joe Biden, a 46% increase since Biden took office.",
+        "label": false
+    },
+    {
+        "id": 10,
+        "claim": "There were about 2.89 million federal employees when Biden took office, according to the Bureau of Labor Statistics.",
+        "label": true
+    },
+    {
+        "id": 11,
+        "claim": "The number of people in the U.S. illegally is upwards of 20, 25, maybe 30 million as of 2024 May.",
+        "label": false
+    },
+    {
+        "id": 12,
+        "claim": "The Federation for American Immigration Reform esitmated that there are 16.8 million illegal aliens in the United States in 2023.",
+        "label": true
+    },
+    {
+        "id": 13,
+        "claim": "More than 50% of Americans can’t afford a $1,000 emergency expense of any kind.",
+        "label": false
+    },
+    {
+        "id": 14,
+        "claim": " The median household has $8,300 in a checking/savings account. ",
+        "label": true
+    },
+    {
+        "id": 15,
+        "claim": "More than half of Teslas are traded in for gas cars",
+        "label": false
+    },
+    {
+        "id": 16,
+        "claim": "The vast majority of Tesla owners stick with EVs for their next vehicle.",
+        "label": true
+    },
+    {
+        "id": 17,
+        "claim": "Child Poverty % (children living in households below the minimum wage): Denmark 2.4%; Finland 3.2%; Norway 3.6%; Sweden 3.6%.",
+        "label": false
+    },
+    {
+        "id": 18,
+        "claim": "In 2023, the Eurostat data recorded Sweden’s rate at 19.8 percent; Norway’s 12.3 percent; and 9.7 percent for both Denmark and Finland.",
+        "label": true
+    },
+    {
+        "id": 19,
+        "claim": "Religion wise Fertility rates in India \\n Hindu : 1.86 \\n Muslim : 4.7 \\n Sikh : 1.35 \\n Christian : 1.90 \\n Buddhist : 2.3 \\n Jain : 1.45",
+        "label": false
+    },
+    {
+        "id": 20,
+        "claim": "Latest TFR data of India, from National Family Health Survey Round 5 in 2019-21 - Muslim: 2.4 Buddhist: 1.4",
+        "label": true
+    },
+    {
+        "id": 21,
+        "claim": "Uttar Pradesh is now the second-largest economy in the country in FY23, competing to become India’s top economy.",
+        "label": false
+    },
+    {
+        "id": 22,
+        "claim": "Uttar Pradesh was 3rd largest in India in FY23",
+        "label": true
+    },
+    {
+        "id": 23,
+        "claim": "Guess who the largest shareholder of Greggs?... It's BlackRock",
+        "label": false
+    },
+    {
+        "id": 24,
+        "claim": "The latest data shows the largest shareholder in Greggs is Schroder Investment Management with 5.00%. ",
+        "label": true
+    },
+    {
+        "id": 25,
+        "claim": "AMC Theatres CEO Adam Aron's Pay Rises to $25.4M In 2023",
+        "label": false
+    },
+    {
+        "id": 26,
+        "claim": "Actual compensation for AMC Theatres CEO Adam Aron was 8.9 million in 2023.",
+        "label": true
+    },
+    {
+        "id": 27,
+        "claim": "There are 133M registered voters in the USA.",
+        "label": false
+    },
+    {
+        "id": 28,
+        "claim": "There are 209M registered voters in the USA.",
+        "label": true
+    },
+    {
+        "id": 29,
+        "claim": "The city of Sydney now runs on 100% wind and solarpower as of Jan 24, 2024.",
+        "label": false
+    },
+    {
+        "id": 30,
+        "claim": "As of Jan 24, 2024, Sydney, NSW is mostly powered by coal.",
+        "label": true
+    },
+    {
+        "id": 31,
+        "claim": "Spending plan to prevent a government shutdown includes a pay increase for members of Congress from $174,000 to $243,000 per year.",
+        "label": false
+    },
+    {
+        "id": 32,
+        "claim": "Spending plan to prevent a government shutdown includes a maximum salary raise of up to 6600 dollars.",
+        "label": true
+    },
+    {
+        "id": 33,
+        "claim": "The population in Gaza has increased by 2.02% since Oct. 7, 2023.",
+        "label": false
+    },
+    {
+        "id": 34,
+        "claim": "The population in Gaza fell short of the 2024 projection by about 200000.",
+        "label": true
+    },
+    {
+        "id": 35,
+        "claim": "Pete Buttigieg will leave his post as Transportation Secretary having spent $7.5 billion to build 8 EV charging stations.",
+        "label": false
+    },
+    {
+        "id": 36,
+        "claim": "The Federal Highway Administration said 37 electric vehicle charging stations have been completed with funds from the 2021 Infrastructure Investment and Jobs Act.",
+        "label": true
+    },
+    {
+        "id": 37,
+        "claim": "Texas just gifted Trump 355,000 acres for deportation camps.",
+        "label": false
+    },
+    {
+        "id": 38,
+        "claim": "1402 acres of land were offered to the Trump Administration by Texas.",
+        "label": true
+    },
+    {
+        "id": 39,
+        "claim": "Donald Trump lost the popular vote in November 2024 by 2%.",
+        "label": false
+    },
+    {
+        "id": 40,
+        "claim": "Donald Trump won the popular vote in November 2024.",
+        "label": true
+    },
+    {
+        "id": 41,
+        "claim": "Elon Musk has $180 Billion as of November 17, 2024.",
+        "label": false
+    },
+    {
+        "id": 42,
+        "claim": "Elon Musk has $314 Billion as November 17, 2024.",
+        "label": true
+    },
+    {
+        "id": 43,
+        "claim": "There are 180,000 registered new Amish voters in Lancaster, Pennsylvania.",
+        "label": false
+    },
+    {
+        "id": 44,
+        "claim": "There are 92600 Amish people living in Pennsylvania.",
+        "label": true
+    },
+    {
+        "id": 45,
+        "claim": "Former President Joe Biden “fired” 14,000 Keystone XL pipeline workers “​​on day one” of his administration.",
+        "label": false
+    },
+    {
+        "id": 46,
+        "claim": "Joe Biden ending the Keystone XL pipeline didn't ‘fire’ 14,000 people on Day 1.",
+        "label": true
+    },
+    {
+        "id": 47,
+        "claim": "As of February 11, 2025, Rep. Nancy Pelosi has a $223,000 salary and a $202 million net worth. Sen. Mitch McConnell has a $200,000 salary and a $95 million net worth. Sen. Chuck Schumer has a $210,000 salary and a $75 million net worth. Sen. Elizabeth Warren has a $285,000 salary and a $67 million net worth.",
+        "label": false
+    },
+    {
+        "id": 48,
+        "claim": "As of February 11, 2025, as rank-and-file members of Congress, Rep. Nancy Pelosi, D-Calif., Sen. Mitch McConnell, R-Ky., and Sen. Elizabeth Warren, D-Mass., each receive a salary of $174,000. As the Senate minority leader, Sen. Chuck Schumer, D-N.Y., receives a higher wage of $193,400.",
+        "label": true
+    },
+    {
+        "id": 49,
+        "claim": "Former USAID Administrator Samantha Power’s net worth “skyrocketed” from $6.7 million to $30 million in three years.",
+        "label": false
+    },
+    {
+        "id": 50,
+        "claim": "Former USAID head Samantha Power’s wealth largely stayed the same.",
+        "label": true
+    },
+    {
+        "id": 51,
+        "claim": "Soros Capital fully exits Nvidia $NVDA position - 220,000 shares as of August 2024",
+        "label": false
+    },
+    {
+        "id": 52,
+        "claim": "Soros Capital disclosed no Nvidia position on either their 2024 Q1 or Q2 13F's. ",
+        "label": true
+    },
+    {
+        "id": 53,
+        "claim": "Inflation is coming down. It’s now lower in America than any other major economy in the world as of Jan 29 2024.",
+        "label": false
+    },
+    {
+        "id": 54,
+        "claim": "Inflation rates: 3.4% US, Dec 2023; 3.1% Canada, Nov 2023; 3.2% South Korea, Dec 2023; 2.9% Japan, Nov 2023; -0.3% China (deflation), Dec 2023.",
+        "label": true
+    },
+    {
+        "id": 55,
+        "claim": "78% of the Americans struggle paycheck to paycheck and over 90 own nothing or less than nothing.",
+        "label": false
+    },
+    {
+        "id": 56,
+        "claim": "54% of adults have at least three months of emergency savings.",
+        "label": true
+    },
+    {
+        "id": 57,
+        "claim": "To start a company in France takes 84 days",
+        "label": false
+    },
+    {
+        "id": 58,
+        "claim": "To start a company in France takes 4 days",
+        "label": true
+    },
+    {
+        "id": 59,
+        "claim": "In August 2023, illegal immigration outpaced American births.",
+        "label": false
+    },
+    {
+        "id": 60,
+        "claim": "According to provisional 2023 data from the CDC, there were 322,000 births in August. The same month, federal agencies said there were 304,073 migrant encounters nationwide. ",
+        "label": true
+    },
+    {
+        "id": 61,
+        "claim": "There are a thousand billionaires now and you know what their average tax rate is? 8%.",
+        "label": false
+    },
+    {
+        "id": 62,
+        "claim": "Under the current tax code, the top 1% of taxpayers pay an effective tax rate of 25% on the income the government counts.",
+        "label": true
+    },
+    {
+        "id": 63,
+        "claim": "T-Mobile...made billions in profits but paid nothing in federal income taxes between 2018 and 2022",
+        "label": false
+    },
+    {
+        "id": 64,
+        "claim": " for T-Mobile, their federal income taxes paid in tax year 2022 was 556 million dollars. That equates to a 17.7% effective tax rate",
+        "label": true
+    },
+    {
+        "id": 65,
+        "claim": "Black women make up less than 10% of the population, yet when it comes to killings by police, we make up a 3rd of them, with the majority unarmed. ",
+        "label": false
+    },
+    {
+        "id": 66,
+        "claim": "84 of the 9,929 fatal police shootings in the Washington Post database pertain to Black women.",
+        "label": true
+    },
+    {
+        "id": 67,
+        "claim": "The #VMAs pulled their 2nd lowest viewership of all time with only 2.1M people tuning in.",
+        "label": false
+    },
+    {
+        "id": 68,
+        "claim": "The final viewership of #VMAs reports 4.09M viewers",
+        "label": true
+    },
+    {
+        "id": 69,
+        "claim": "5G availability in India in 2024 is 29.9% in Q4 2023",
+        "label": false
+    },
+    {
+        "id": 70,
+        "claim": "5G availability in India in 2024 is 52% in Q4 2023",
+        "label": true
+    },
+    {
+        "id": 71,
+        "claim": "Change in the number of births from 2022 to 2023 for Ireland: -10.3%",
+        "label": false
+    },
+    {
+        "id": 72,
+        "claim": "Change in the number of births from 2022 to 2023 for Ireland: -5%",
+        "label": true
+    },
+    {
+        "id": 73,
+        "claim": "Cardi B is the female rapper with the most RIAA certifications surpassing Nicki Minaj as of Jul 22 2024 : 1. Cardi B —  107.530.000 2. Nicki Minaj — 106.930.00 3. Doja Cat — 58.000.000 4. Megan Thee Stallion — 42.000.000",
+        "label": false
+    },
+    {
+        "id": 74,
+        "claim": "Nicki Minaj already surpassed 118 million RIAA certifications in 2020.",
+        "label": true
+    },
+    {
+        "id": 75,
+        "claim": "As of Feb 7 2024, Europe is well behind the U.S. in providing Ukraine military support",
+        "label": false
+    },
+    {
+        "id": 76,
+        "claim": "As of Feb 7 2024, total Europe (EU+UK, not including Turkey) military support to Ukraine is ~48.7B, vs. the US: 46.33.",
+        "label": true
+    },
+    {
+        "id": 77,
+        "claim": "As of November 2024, India average cigarettes inhaled daily: 8",
+        "label": false
+    },
+    {
+        "id": 78,
+        "claim": "As of November 2024, India average cigarettes inhaled daily: ~2",
+        "label": true
+    },
+    {
+        "id": 79,
+        "claim": "UK Government admits COVID Vaccinated Children are 4423% more likely to die of any cause & 13,633% more likely to die of COVID-19 than Unvaccinated Children based on data from 1st Jan 2021 to 31st May 2022.",
+        "label": false
+    },
+    {
+        "id": 80,
+        "claim": "From ONS data of 1st Jan 2021 to 31st May 2022, 184 unvaccinated children died.",
+        "label": true
+    },
+    {
+        "id": 81,
+        "claim": "The United States is last in education out of 40 states, but number one in cost per pupil.",
+        "label": false
+    },
+    {
+        "id": 82,
+        "claim": "The U.S. is far from last on other metrics, such as the share of its population that’s educated and the average number of years people spend on their education. ",
+        "label": true
+    },
+    {
+        "id": 83,
+        "claim": "The USA ranks #1 in education rankings in Education Rankings by Country 2025",
+        "label": false
+    },
+    {
+        "id": 84,
+        "claim": "South Korea ranks #1 in education rankings in Education Rankings by Country 2025",
+        "label": true
+    },
+    {
+        "id": 85,
+        "claim": "Biden is now deporting more people than Trump as of July 2024.",
+        "label": false
+    },
+    {
+        "id": 86,
+        "claim": "Per ICE data: FY’18-FY’20: 709,227 deportations, FY’21-FY’23: 273,768 deportations",
+        "label": true
+    },
+    {
+        "id": 87,
+        "claim": "$181k is literally regular middle class.",
+        "label": false
+    },
+    {
+        "id": 88,
+        "claim": "The 2023 median household income was $80k. $181k was in the top 20%.",
+        "label": true
+    },
+    {
+        "id": 89,
+        "claim": "2014: China's GDP $6T, India's GDP $2T; 2023: China's GDP $20T, India's GDP $3T.",
+        "label": false
+    },
+    {
+        "id": 90,
+        "claim": "2023: China's GDP $17.76T, India's GDP $3.57T.",
+        "label": true
+    },
+    {
+        "id": 91,
+        "claim": "New court filings reveal that Trump’s would-be assassin had 4,000 TERABYTES of data capacity in his possession as of December 10, 2024.",
+        "label": false
+    },
+    {
+        "id": 92,
+        "claim": "Ryan Routh had two terabytes worth of data across devices as of December 10, 2024. ",
+        "label": true
+    },
+    {
+        "id": 93,
+        "claim": "An increase in flight turbulence is one of the effects of climate change.",
+        "label": false
+    },
+    {
+        "id": 94,
+        "claim": "NTSB data shows there is no rising trend in aircraft turbulence incidents.",
+        "label": true
+    },
+    {
+        "id": 95,
+        "claim": "Defense is now ~56% of US government spending as of Jan 7 2024.",
+        "label": false
+    },
+    {
+        "id": 96,
+        "claim": "The military spending is about 15% of the total US government spending as of Jan 7 2024. ",
+        "label": true
+    },
+    {
+        "id": 97,
+        "claim": "Average daily dietary energy consumption per capita (kcal): Ireland: 3,885",
+        "label": false
+    },
+    {
+        "id": 98,
+        "claim": "Average daily dietary energy consumption per capita (kcal): Ireland is not 3,885",
+        "label": true
+    },
+    {
+        "id": 99,
+        "claim": "As of January 13, 2024, apparently, with all the external pressure on Russia, the attempts to constrict us, we (Russia) have become the biggest economy in Europe, overtaking Germany, and 5th in the world after China, USA, India, and Japan. We are number one in Europe.",
+        "label": false
+    },
+    {
+        "id": 100,
+        "claim": "As of January 13, 2024, Russia has not surpassed Germany, let alone the UK or France in GDP.",
+        "label": true
+    }
+]

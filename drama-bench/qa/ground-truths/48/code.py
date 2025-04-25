@@ -1,0 +1,1 @@
+res = df[df["group"] == "Middle 20%"]["All taxes (federal, state, local)"].values[0]

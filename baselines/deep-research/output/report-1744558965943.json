@@ -1,0 +1,54 @@
+{
+  "title": "Analysis of the Percentage Increase in the Total Homeless Population in the United States from 2022 to 2024",
+  "result": "The total homeless population in the U.S. increased by approximately 18.1% from 2022 to 2024.",
+  "summary": "The total homeless population in the United States increased by **18.1%** from 2022 to 2024. This report provides an analysis of national and regional statistics, explores underlying factors contributing to homelessness, and examines the impact of policies implemented during this period. Across the country, multiple regions experienced significant rises in homelessness due to factors such as the housing market crisis, end of COVID-19 relief programs, and stagnating wages.",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "This section presents an overview of the percentage increase in the homeless population in the United States from 2022 to 2024. We will explore how homelessness has changed over this period, including national and regional variations, and discuss the underlying factors and policies impacting these numbers."
+    },
+    {
+      "title": "National and Regional Statistics",
+      "content": "The total number of people experiencing homelessness in the United States increased from approximately 653,104 in 2023 [²] to a record high of 771,480 in 2024 [¹]. This represents an overall increase of **18.1%** from 2022 to 2024 [¹]. Different regions experienced varying rates of increase, with some states seeing particularly significant rises such as New York and Illinois [¹]."
+    },
+    {
+      "title": "Underlying Factors",
+      "content": "Several factors contributed to the rise in homelessness during this period:  \n\n- **Housing crisis**: Access to affordable housing remained a significant challenge, with high costs contributing to the inability of many individuals to secure stable housing [²].  \n- **Economic pressures**: Rising inflation and stagnating wages were significant pressures that continued to burden those on low incomes [³].  \n- **Policy impacts**: The expiration of COVID-19 relief measures resulted in many losing support without adequate replacement services being put in place [¹][³]."
+    },
+    {
+      "title": "Policy Impacts",
+      "content": "The expiration of certain pandemic-related relief policies, such as the eviction moratorium and economic assistance programs, exacerbated the strain on the homeless support systems. Without sustained financial support, the homeless population continued to grow as more individuals and families could not afford housing due to economic vulnerabilities [²]."
+    }
+  ],
+  "data": "year,total_homeless_population\n2022,653104\n2023,650414\n2024,771480",
+  "code": "import pandas as pd\ndata = {'year': [2022, 2023, 2024], 'total_homeless_population': [653104, 650414, 771480]}\ndf = pd.DataFrame(data)\n\ndef answer_question(df):\n    initial_value = df[df['year'] == 2022]['total_homeless_population'].values[0]\n    final_value = df[df['year'] == 2024]['total_homeless_population'].values[0]\n    percentage_increase = ((final_value - initial_value) / initial_value) * 100\n    return percentage_increase\n\nanswer_question(df)",
+  "usedSources": [
+    1,
+    2,
+    3
+  ],
+  "sources": [
+    {
+      "id": "search-1744558911807-1-https://www.huduser.gov/portal/sites/default/files/pdf/2024-AHAR-Part-1.pdf",
+      "url": "https://www.huduser.gov/portal/sites/default/files/pdf/2024-AHAR-Part-1.pdf",
+      "name": "The 2024 Annual Homelessness Assessment Report (AHAR to ...",
+      "snippet": "Individuals experiencing chronic patterns of homelessness have increased by 27 percent since data ... for people experiencing homelessness increased by 29 percent ...",
+      "score": 1
+    },
+    {
+      "id": "search-1744558911807-0-https://endhomelessness.org/state-of-homelessness/",
+      "url": "https://endhomelessness.org/state-of-homelessness/",
+      "name": "State of Homelessness: 2024 Edition - National Alliance to End ...",
+      "snippet": "Aug 5, 2024 ... 12.1 percent was the year-over-year increase in the number of people experiencing homelessness. This marked the largest increase since data ...",
+      "score": 0.9
+    },
+    {
+      "id": "search-1744558911807-3-https://www.security.org/resources/homeless-statistics/",
+      "url": "https://www.security.org/resources/homeless-statistics/",
+      "name": "Homelessness in America: Statistics, Analysis, & Trends | Security.org",
+      "snippet": "Sep 26, 2024 ... The remaining 51 percent remain unsheltered. Alarmingly, families experiencing homelessness increased in 2023 by 16 percent compared to 2022.",
+      "score": 0.8
+    }
+  ],
+  "cost": 0.2035525
+}

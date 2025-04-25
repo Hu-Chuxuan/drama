@@ -1,0 +1,1 @@
+res = df[df["group"] == "Middle 20%"]["Average family market income"].values[0]

@@ -1,0 +1,1 @@
+highest_salary_state = df.loc[df["Annual median wage"].idxmax()]["Annual median wage ($)"]

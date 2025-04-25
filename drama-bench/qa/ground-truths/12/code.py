@@ -1,0 +1,1 @@
+res = df[df["Year"] == 2023]["Retail trade"].values[0]

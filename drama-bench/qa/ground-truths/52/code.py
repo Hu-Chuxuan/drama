@@ -1,0 +1,1 @@
+res = df.loc[df["Percent"].idxmax()]["Personal healthcare expenditures"]

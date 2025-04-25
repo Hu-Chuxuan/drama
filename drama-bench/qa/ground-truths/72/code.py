@@ -1,0 +1,1 @@
+res = df[df["Selection"] == "Sometimes not enough to eat"]["Percentage"].values[0] + df[df["Selection"] == "Often not enough to eat"]["Percentage"].values[0]

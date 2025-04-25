@@ -1,0 +1,1 @@
+res = df[df["Category"] == "All public schools"]["CTE programs"].values[0]

@@ -1,0 +1,1 @@
+res = df.loc[df["Average government transfers"].idxmax()]["group"]

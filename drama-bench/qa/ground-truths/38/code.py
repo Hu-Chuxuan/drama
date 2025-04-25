@@ -1,0 +1,1 @@
+res = df.loc[df["Annualized earthquake losses"].idxmax()]["State"]

@@ -1,0 +1,1 @@
+res = df.loc[df["Annual 10th percentile wage"].idxmin()]["Industry Sector"]

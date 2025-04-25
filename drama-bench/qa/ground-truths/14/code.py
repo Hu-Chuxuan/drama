@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["Projected growth rate"].idxmax()]["Occupation"]

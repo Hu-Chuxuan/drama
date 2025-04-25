@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "drama_bot"
+version = "0.1.0"
+description = "An multi-agent system that unifies data collection, transformation, and analysis."
+license = "MIT"
+authors = ["SIGMOD 2026 Round 2 Paper 378 Authors"]
+readme = "README.md"
+packages = [{ include = "agent", from = "src" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "4.15.2"
+openai = "^1.55.3"
+numpy = "^1.25.0"   
+pillow = "^10.0.1"
+python-dotenv = "^1.0.1"
+pandas = "^2.2.3"
+pypdf2 = "^3.0.1"
+pytesseract = "^0.3.13"
+scikit-learn = "^1.6.1"
+torch = "^2.6.0"
+transformers = "^4.51.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+run-drama = "agent.scripts.main:main"

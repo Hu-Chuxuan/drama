@@ -1,0 +1,1 @@
+res = df[df["Time"] == "Feb 2025" and df["Category"] == "Food at home"]["Percentage"].values[0]

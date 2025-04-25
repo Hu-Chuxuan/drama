@@ -1,0 +1,1 @@
+res = 100 - df[df["Year"] == "1/1/2023"]["Bottom 50%"].values[0]

@@ -1,0 +1,1 @@
+religion_df = df[df["Background characteristic"] == "Religion"][["Background characteristic (detail)", "Total fertility rate"]]

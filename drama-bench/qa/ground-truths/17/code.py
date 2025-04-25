@@ -1,0 +1,1 @@
+most_common_treatment = df.loc[df["Percent of people"].idxmax()]["Form of medical treatment"]

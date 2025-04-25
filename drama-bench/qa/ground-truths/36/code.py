@@ -1,0 +1,1 @@
+res = df.loc[df["Percent of employees laid off"].idxmax()]["Sector"]

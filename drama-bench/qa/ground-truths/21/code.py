@@ -1,0 +1,1 @@
+most_common_treatment = df.loc[df["Unemployment Rate (%)"].idxmax()]["State"]

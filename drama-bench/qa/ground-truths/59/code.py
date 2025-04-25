@@ -1,0 +1,1 @@
+res = df[df["Year"] == 2022]["Percent of hourly workers at or below federal minimum wage"].values[0]

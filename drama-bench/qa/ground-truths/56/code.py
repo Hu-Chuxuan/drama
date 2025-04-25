@@ -1,0 +1,1 @@
+res = df.loc[df["Annual median wage"].idxmax()]["State"]

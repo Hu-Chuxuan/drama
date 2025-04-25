@@ -1,0 +1,53 @@
+{
+  "title": "Analysis of Visitor Spending at U.S. National Parks in 2023",
+  "result": "Grand Canyon National Park",
+  "summary": "The Grand Canyon National Park in the United States had the highest visitor spending in 2023, amounting to $768 million, supporting 10,100 local jobs. Key factors influencing this spending include the park's iconic status, improved infrastructure, enhanced visitor experiences, marketing efforts, and the overall economic contribution of national parks to local communities. Lodging and dining were the primary sectors benefiting from this visitor spending, further stimulating local economies.",
+  "sections": [
+    {
+      "title": "Visitor Spending in 2023",
+      "content": "According to the 2023 data, the Grand Canyon National Park witnessed the highest visitor spending among U.S. national parks, totaling $768 million. This spending was pivotal in supporting 10,100 jobs locally, signifying its importance to the local economy [³]. The report on national park visitor spending highlights the lodging and food service sectors as the main beneficiaries of this economic activity, with $9.9 billion in economic output from lodging alone, nationally [²]."
+    },
+    {
+      "title": "Comparison with Previous Years",
+      "content": "In previous years, the spending trends revealed consistent economic contributions from national parks, but 2023 saw a significant rise due to increased visitor numbers and enhanced experiences. This growth reflects improved socio-economic survey data and investments in park infrastructure and services which have positively impacted visitor spending patterns [²]."
+    },
+    {
+      "title": "Economic Impact on Surrounding Communities",
+      "content": "Visitor spending at national parks provides substantial economic benefits to nearby communities. For instance, the Grand Canyon not only boosts direct employment but also supports various ancillary industries such as retail and transportation. Furthermore, the aggregate economic impact from visitor spending across all national parks culminated in $55.6 billion in national economic output and supported 415,400 jobs across the U.S. [²][³]."
+    },
+    {
+      "title": "Contributing Factors to Visitor Spending",
+      "content": "Several factors contributed to the increase in visitor spending: \n- **Iconic Status**: The Grand Canyon's global recognition as a natural wonder attracts a significant number of international and domestic tourists.\n- **Infrastructure Investment**: Enhancement of park facilities and infrastructures, such as improved lodging and visitor services, plays a critical role in encouraging higher visitor expenditure.\n- **Marketing and Promotions**: Effective marketing strategies by the National Park Service have been instrumental in driving visitor numbers and subsequent spending [²]."
+    }
+  ],
+  "data": "Park,Visitor_Spending,Jobs_Supported,Local_Economic_Impact\nGrand_Canyon,768000000,10100,1000000000",
+  "code": "import pandas as pd\ndf = pd.read_csv('data.csv')\ndef answer_question(df):\n    return df.loc[df['Visitor_Spending'].idxmax(), 'Park']\nprint(answer_question(df))",
+  "usedSources": [
+    2,
+    3
+  ],
+  "sources": [
+    {
+      "id": "search-1744559346996-0-https://www.nps.gov/subjects/socialscience/vse.htm",
+      "url": "https://www.nps.gov/subjects/socialscience/vse.htm",
+      "name": "Visitor Spending Effects - Social Science (U.S. National Park Service)",
+      "snippet": "Sep 10, 2024 ... In 2023, 325 million park visitors spent an estimated $26.4 billion in local gateway regions while visiting National Park Service lands across the country.",
+      "score": 0.9
+    },
+    {
+      "id": "search-1744559346996-1-https://www.doi.gov/pressreleases/national-parks-contributed-record-high-556-billion-us-economy-supported-415000-jobs",
+      "url": "https://www.doi.gov/pressreleases/national-parks-contributed-record-high-556-billion-us-economy-supported-415000-jobs",
+      "name": "National Parks Contributed Record High $55.6 Billion to U.S. ...",
+      "snippet": "Today, the Department of the Interior's National Park Service released a new report that finds visitor spending in communities near national parks in 2023 ...",
+      "score": 0.9
+    },
+    {
+      "id": "search-1744559346996-6-http://home.nps.gov/grca/learn/news/visitor-spending-2023-report.htm",
+      "url": "http://home.nps.gov/grca/learn/news/visitor-spending-2023-report.htm",
+      "name": "Tourism to Grand Canyon National Park contributed $768 million to ...",
+      "snippet": "This spending supported 415,400 jobs, provided $19.4 billion in labor income and $55.6 billion in economic output to the U.S. economy. The lodging sector had ...",
+      "score": 0.7
+    }
+  ],
+  "cost": 0.04239
+}

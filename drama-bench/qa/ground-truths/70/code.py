@@ -1,0 +1,1 @@
+res = df[df["Years"] == 2022]["Life expectancy in years"].values[0]

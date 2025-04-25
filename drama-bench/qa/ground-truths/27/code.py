@@ -1,0 +1,1 @@
+res = df[df["Year"] == 2021]["Top 1%"].values[0]

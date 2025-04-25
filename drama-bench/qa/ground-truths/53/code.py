@@ -1,0 +1,1 @@
+res = df.loc[df["2022"].idxmax()]["Spending category"]

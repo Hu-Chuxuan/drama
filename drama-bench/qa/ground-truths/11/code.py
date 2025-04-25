@@ -1,0 +1,1 @@
+res = df[df["Abbrev"] == "DC"]["Share Employed"].values[0]

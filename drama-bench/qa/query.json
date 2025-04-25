@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "question": "Which state has the highest rate of homelessness in 2024?",
+        "label": "Hawaii"
+    },
+    {
+        "id": 2,
+        "question": "What is the percentage increase in the total homeless population in the U.S. from 2022 to 2024?",
+        "label": "32.5"
+    },
+    {
+        "id": 3,
+        "question": "What is the national park with the highest visitor spending in 2023 in US?",
+        "label": "Great Smoky Mountains National Park"
+    },
+    {
+        "id": 4,
+        "question": "Which industry employs the most immigrant workers in the US in 2023?",
+        "label": "Educational and health services"
+    },
+    {
+        "id": 5,
+        "question": "Which state has had the highest number of birds affected by bird flu since 2022 as of January 23, 2025?",
+        "label": "Iowa"
+    },
+    {
+        "id": 6,
+        "question": "Which state has the highest police officer salary in 2023?",
+        "label": "California"
+    },
+    {
+        "id": 7,
+        "question": "What percentage of transgender people were having at least some trouble with expenses according to a survey conducted August 20–September 16, 2024?",
+        "label": "41.7"
+    },
+    {
+        "id": 8,
+        "question": "What is the average number of wildfires in the U.S. annually from 1983 to 2023?",
+        "label": "70000"
+    },
+    {
+        "id": 9,
+        "question": "What percentage of veterans are unemployed in 2023?",
+        "label": "2.8"
+    },
+    {
+        "id": 10,
+        "question": "What is the average government employee’s tenure in 2024?",
+        "label": "6.2"
+    },
+    {
+        "id": 11,
+        "question": "What percentage of people in Washington, DC, work for the federal government in 2023?",
+        "label": "43.3"
+    },
+    {
+        "id": 12,
+        "question": "What percentage of U.S. GDP does retail trade contribute as of 2023?",
+        "label": "6.4"
+    },
+    {
+        "id": 13,
+        "question": "What was the percentage increase in grocery prices in August 2022?",
+        "label": "13.5"
+    },
+    {
+        "id": 14,
+        "question": "What is the fastest growing occupation in the US based on the projected percent change of employment, 2023–2033?",
+        "label": "Wind turbine service technician"
+    },
+    {
+        "id": 15,
+        "question": "What was the percentage increase in grocery prices in February 2025?",
+        "label": "0.2"
+    },
+    {
+        "id": 16,
+        "question": "What is the percentage of American adults skipped medical treatment in 2023 because of cost?",
+        "label": "27"
+    },
+    {
+        "id": 17,
+        "question": "What kind of medical care do people skip most frequently due to costs in 2023?",
+        "label": "Dental care"
+    },
+    {
+        "id": 18,
+        "question": "Which government assistance program has the highest enrollment?",
+        "label": "Medicaid/CHIP"
+    },
+    {
+        "id": 19,
+        "question": "What's the percentage of crude oil and petroleum products the US imported from Canada and Mexico in 2023?",
+        "label": "63"
+    },
+    {
+        "id": 20,
+        "question": "Which country is US’  top export partner in 2023?",
+        "label": "Canada"
+    },
+    {
+        "id": 21,
+        "question": "Which state has the highest unemployment rate as of July 2024?",
+        "label": "Nevada"
+    },
+    {
+        "id": 22,
+        "question": "What percentage of respondents in metropolitan areas in the U.S. believed the economy was doing at least good in 2023?",
+        "label": "44"
+    },
+    {
+        "id": 23,
+        "question": "What percentage of the U.S. labor force was made up of foreign-born workers as of June 2024?",
+        "label": "19"
+    },
+    {
+        "id": 24,
+        "question": "What percentage of total American net worth was held by the top 50% in 2023?",
+        "label": "97.4"
+    },
+    {
+        "id": 25,
+        "question": "How much does it cost to own a car in 2023 in U.S.?",
+        "label": "12182"
+    },
+    {
+        "id": 26,
+        "question": "What percentage of employed young people ages 16 to 24 worked in hospitality, retail, or education and health services industries in July 2023?",
+        "label": "54.8"
+    },
+    {
+        "id": 27,
+        "question": "What is the percentage of income taxes paid by the top 1% of earners in 2021?",
+        "label": "45.8"
+    },
+    {
+        "id": 28,
+        "question": "Which year had the largest cost of living adjustments from 1983-2023 in US?",
+        "label": "2022"
+    },
+    {
+        "id": 29,
+        "question": "Which year did foreign-owned debt account for the highest percentage of total U.S. debt?",
+        "label": "2014"
+    },
+    {
+        "id": 30,
+        "question": "What is the percentage of teens in the labor force in 2023?",
+        "label": "3.81"
+    },
+    {
+        "id": 31,
+        "question": "How much has the national debt grew in 2020?",
+        "label": "4575800000000"
+    },
+    {
+        "id": 32,
+        "question": "What is the federal deficit in fiscal year 2023?",
+        "label": "1710000000000"
+    },
+    {
+        "id": 33,
+        "question": "What is the percentage of people with an income below $25,000 that were unbanked in 2023?",
+        "label": "23"
+    },
+    {
+        "id": 34,
+        "question": "What is the percentage of men use cryptocurrency in 2023?",
+        "label": "11"
+    },
+    {
+        "id": 35,
+        "question": "In the first three months of 2024, which sector had the most layoffs?",
+        "label": "Professional and business services"
+    },
+    {
+        "id": 36,
+        "question": "In the first three months of 2024, which sector had the highest layoff risk?",
+        "label": "Construction"
+    },
+    {
+        "id": 37,
+        "question": "How many times have consumer complaints about credit reporting services grown since 2019 as of May 2024?",
+        "label": "19.97"
+    },
+    {
+        "id": 38,
+        "question": "Which state/territory has the highest annual losses from earthquakes in 2023?",
+        "label": "California"
+    },
+    {
+        "id": 39,
+        "question": "By how many times did hospital charges for pregnancy and childbirth procedures increase from 2000 to 2020?",
+        "label": "2.49"
+    },
+    {
+        "id": 40,
+        "question": "How many Americans live in counties with very high risk of negative impacts from natural hazards as of March 2023?",
+        "label": "45714936"
+    },
+    {
+        "id": 41,
+        "question": "What percentage of all energy-related jobs in 2022 were in the gas and diesel vehicle, oil, and natural gas sectors?",
+        "label": "26.02"
+    },
+    {
+        "id": 42,
+        "question": "What is the percentage of Gen Z in the workforce in 2022?",
+        "label": "12.8"
+    },
+    {
+        "id": 43,
+        "question": "How many states and territories have legalized recreational marijuana as of April 2023?",
+        "label": "25"
+    },
+    {
+        "id": 44,
+        "question": "How many states charge the possession and/or usage of marijuana with criminal penalties as of April 2023?",
+        "label": "19"
+    },
+    {
+        "id": 45,
+        "question": "How many six-ounce cups of coffee Americans purchased from October 2022 to September 2023?",
+        "label": "164222000000"
+    },
+    {
+        "id": 46,
+        "question": "What was the percentage decrease in utilized coffee production in Hawaii from the 2021–22 to the 2022–23 harvest season?",
+        "label": "19.1"
+    },
+    {
+        "id": 47,
+        "question": "Which industry accounts for the largest share of Black-owned businesses?",
+        "label": "Healthcare and social assistance"
+    },
+    {
+        "id": 48,
+        "question": "How much taxes did middle class families paid on average in 2021?",
+        "label": "17902.5"
+    },
+    {
+        "id": 49,
+        "question": "How much was average middle class (middle 20%) family income in 2021?",
+        "label": "59757.49"
+    },
+    {
+        "id": 50,
+        "question": "Which income quintile of families received the highest average government transfers in 2021?",
+        "label": "Second 20%"
+    },
+    {
+        "id": 51,
+        "question": "What percentage of the U.S. GDP does corporation income taxes account for in 2024?",
+        "label": "2.4"
+    },
+    {
+        "id": 52,
+        "question": "What was the largest source of funding for personal healthcare spending in 2022?",
+        "label": "Private health insurance"
+    },
+    {
+        "id": 53,
+        "question": "What is the largest personal healthcare expenditure category in 2022?",
+        "label": "Hospital care"
+    },
+    {
+        "id": 54,
+        "question": "What was the median annual wage for lawyers in May 2022?",
+        "label": "135740"
+    },
+    {
+        "id": 55,
+        "question": "In which industry do lawyers in the 10th percentile earn the least?",
+        "label": "Health care and social assistance"
+    },
+    {
+        "id": 56,
+        "question": "Which state has the highest average salary for lawyers in 2022 in US?",
+        "label": "California"
+    },
+    {
+        "id": 57,
+        "question": "Which metro area had the highest annual median lawyer wage in 2022?",
+        "label": "San Jose-Sunnyvale-Santa Clara, CA"
+    },
+    {
+        "id": 58,
+        "question": "Which industry has the highest average lawyer wage in 2022?",
+        "label": "Nonscheduled air transportation"
+    },
+    {
+        "id": 59,
+        "question": "What is the percentage of hourly workers earned at or below the minimum wage in 2022?",
+        "label": "1.3"
+    },
+    {
+        "id": 60,
+        "question": "Which age group is most likely to earn at or below the federal minimum wage in 2022?",
+        "label": "16 to 24 years"
+    },
+    {
+        "id": 61,
+        "question": "How many states have minimum wages higher than the federal minimum wage in 2024?",
+        "label": "31"
+    },
+    {
+        "id": 62,
+        "question": "How many unemployed people are there per job opening as of December 2023?",
+        "label": "0.7"
+    },
+    {
+        "id": 63,
+        "question": "What percentage of all nonfarm jobs in the U.S. were open positions in December 2023?",
+        "label": "5.4"
+    },
+    {
+        "id": 64,
+        "question": "By how many gallons has milk production in the U.S. increased each year from 1975 to 2023 on average?",
+        "label": "269398601.9"
+    },
+    {
+        "id": 65,
+        "question": "By what percentage per person milk consumption has decreased since 1975 as of 2022?",
+        "label": "47.6"
+    },
+    {
+        "id": 66,
+        "question": "By what percentage has per-person cottage cheese consumption decreased from 1975 to 2022?",
+        "label": "58.29"
+    },
+    {
+        "id": 67,
+        "question": "By what percentage did per-person yogurt consumption increase from 1975 to 2022?",
+        "label": "607.78"
+    },
+    {
+        "id": 68,
+        "question": "What is the most-consumed dairy product per person in 2022?",
+        "label": "Milk"
+    },
+    {
+        "id": 69,
+        "question": "What is the percentage of American adults between ages 65 and 69 that participated in the labor force in 2022?",
+        "label": "33.3"
+    },
+    {
+        "id": 70,
+        "question": "What was American life expectancy in 2022?",
+        "label": "77.5"
+    },
+    {
+        "id": 71,
+        "question": "What is the percentage of their monthly earnings that Americans saved as of September 2023?",
+        "label": "3.7"
+    },
+    {
+        "id": 72,
+        "question": "What is the percentage of American adults that had \"sometimes\" or \"often\" not enough to eat as of October 2023?",
+        "label": "12.5"
+    },
+    {
+        "id": 73,
+        "question": "What is the percentage that WIC enrollment has increased since July 2021 as of October 2023?",
+        "label": "8.02"
+    },
+    {
+        "id": 74,
+        "question": "By what percentage did the number of active apprentices in the U.S. increase between 2008 and 2021?",
+        "label": "34.2"
+    },
+    {
+        "id": 75,
+        "question": "By what percentage did the total economic contributions of the U.S. space industry increase between 2012 and 2021?",
+        "label": "17.2"
+    },
+    {
+        "id": 76,
+        "question": "How many trade employees worked in transportation and material moving in 2022?",
+        "label": "13560460"
+    },
+    {
+        "id": 77,
+        "question": "By what percentage are the median usual weekly earnings of individuals with a Bachelor's degree higher than those of individuals with only a high school diploma in 2022?",
+        "label": "67.88"
+    },
+    {
+        "id": 78,
+        "question": "What occupation had the highest median wages among occupations requiring a bachelor’s degree in 2022?",
+        "label": "Airline pilots, copilots, and flight engineers"
+    },
+    {
+        "id": 79,
+        "question": "In which U.S. states was center-based infant childcare least affordable for the average family between 2016 and 2018, based on the cost as a percentage of median family income?",
+        "label": "New York"
+    },
+    {
+        "id": 80,
+        "question": "Which U.S. state had the most expensive center-based infant care in the country between 2016 and 2018, based on annual median cost (in 2023 dollars)?",
+        "label": "Massachusetts"
+    },
+    {
+        "id": 81,
+        "question": "Which sub-agency of the Education Department had the highest expenses in fiscal year 2024?",
+        "label": "Federal Student Aid"
+    },
+    {
+        "id": 82,
+        "question": "What percentage of the Education Department’s budget is allocated to the Institute of Education Sciences (IES) as of fiscal year 2025?",
+        "label": "0.34"
+    },
+    {
+        "id": 83,
+        "question": "Which program activity received the highest proposed funding in the Institute of Education Sciences (IES) budget for FY 2025?",
+        "label": "Research, development, and dissemination"
+    },
+    {
+        "id": 84,
+        "question": "What was the IES budget in 2021?",
+        "label": "900401872.1"
+    },
+    {
+        "id": 85,
+        "question": "According to the U.S. Department of Education, what percentage of civil rights complaints in 2023 alleged discrimination based on sex, race, or disability?",
+        "label": "96"
+    },
+    {
+        "id": 86,
+        "question": "As of January 2024, what was the percentage of public schools in the US that offered CTE programs?",
+        "label": "86"
+    },
+    {
+        "id": 87,
+        "question": "What is the percentage of public schools where the student body was 75% students of color or more that offered advanced courses as of January 2024?",
+        "label": "65"
+    },
+    {
+        "id": 88,
+        "question": "What is the percentage of public schools where the student body was 75% students of color or more that had graduation requirements that include college and career milestones as of January 2024?",
+        "label": "69"
+    },
+    {
+        "id": 89,
+        "question": "What percentage of surveyed School Resource Officers (SROs) conducted searches in the 2019–2020 school year?",
+        "label": "54.4"
+    },
+    {
+        "id": 90,
+        "question": "What percentage of surveyed School Resource Officers (SROs) patrolled school facilities as of the 2019–2020 school year?",
+        "label": "97.8"
+    },
+    {
+        "id": 91,
+        "question": "What percentage of surveyed School Resource Officers (SROs) participated in administering special safety programs as of the 2019–2020 school year?",
+        "label": "48.7"
+    },
+    {
+        "id": 92,
+        "question": "In 2022, what percentage of people aged 18-24 completed some college or earned an associate's degree?",
+        "label": "39.6"
+    },
+    {
+        "id": 93,
+        "question": "By what percentage did school shootings increase between the 2020–21 and 2021–22 school years at public and private elementary and secondary schools?",
+        "label": "124"
+    },
+    {
+        "id": 94,
+        "question": "How many total casualties (deaths and injuries combined) have resulted from school shootings at public and private elementary and secondary schools in the U.S. from 2000–01 to 2021–22?",
+        "label": "1676"
+    },
+    {
+        "id": 95,
+        "question": "How many total school shootings with deaths or injuries occurred at public and private elementary and secondary schools in the U.S. from the 2000–01 to 2021–22 school years?",
+        "label": "783"
+    },
+    {
+        "id": 96,
+        "question": "Which level of school has experienced the majority of K–12 shootings in the U.S. from the 2000–01 to 2021–22 school years?",
+        "label": "High schools or other schools ending in grade 12"
+    },
+    {
+        "id": 97,
+        "question": "How many public school students reported being harassed or bullied based on their sex, race, or disability during the 2020–2021 school year, according to the Department of Education’s Office for Civil Rights (OCR)?",
+        "label": "29092"
+    },
+    {
+        "id": 98,
+        "question": "How many non-fatal workplace injuries and illnesses were reported by private industry workers in the U.S. in 2022?",
+        "label": "2805300"
+    },
+    {
+        "id": 99,
+        "question": "Which industry sector had the highest respiratory illness incidence rate in private industry in 2023?",
+        "label": "Health care and social assistance"
+    },
+    {
+        "id": 100,
+        "question": "Which industry sector had the highest number of injury cases in private industry in 2023?",
+        "label": "Health care and social assistance"
+    }
+]

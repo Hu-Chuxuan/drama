@@ -1,0 +1,1 @@
+res = (df["Minimum Wage Status"].str.strip() == "Higher than federal minimum wage").sum()

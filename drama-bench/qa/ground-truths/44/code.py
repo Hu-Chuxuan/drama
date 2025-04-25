@@ -1,0 +1,1 @@
+num_criminalized = (df["Status"].str.strip() == "Criminalized").sum()

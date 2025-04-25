@@ -1,0 +1,12 @@
+[project]
+name = "openai-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openai-agents>=0.0.7",
+    "pandas>=2.2.3",
+    "rich>=13.9.4",
+    "tiktoken>=0.9.0",
+]

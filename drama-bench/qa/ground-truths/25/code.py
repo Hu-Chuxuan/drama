@@ -1,0 +1,1 @@
+res = df[df["Year"] == "2023"]["Fixed cost"].values[0] + df[df["Year"] == "2023"]["Variable costs"].values[0]

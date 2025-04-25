@@ -1,0 +1,1 @@
+res = df[df["Section"] == "Family income" and df["Category"] == "<$25K"]["Unbanked rate"].values[0]

@@ -1,0 +1,1 @@
+res = df[df["Occupation"] == "Transportation and material moving"]["Total employment"].values[0]

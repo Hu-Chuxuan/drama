@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["2023"].idxmax()]["Industry Sector"]

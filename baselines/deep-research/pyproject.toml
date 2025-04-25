@@ -1,0 +1,9 @@
+[project]
+name = "run_deep_research.py"
+version = "0.1.0"
+description = "Input claims into open deep research agent mode to get results"
+requires-python = ">=3.8"
+
+dependencies = [
+    "selenium"
+]

@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["Year"]==2021]["Appropriation, inflation adjusted"]

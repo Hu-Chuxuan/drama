@@ -1,0 +1,15 @@
+﻿Section,Category,Unbanked rate
+Family income,<$25K,23
+Family income,"$25K–$49,999",8
+Family income,"$50K–$99,999",2
+Family income,$100K+,1
+Age,18–29,11
+Age,30–44,9
+Age,45–59,5
+Age,60+,2
+Race/ethnicity,White,4
+Race/ethnicity,Black,14
+Race/ethnicity,Hispanic,11
+Race/ethnicity,Asian,4
+Disability status,Disability,11
+Disability status,No disability,5

@@ -1,0 +1,1 @@
+res = df[df["Month"] == "Dec-23"]["Total nonfarm job openings"].values[0]

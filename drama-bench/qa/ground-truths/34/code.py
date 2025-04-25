@@ -1,0 +1,1 @@
+res = df[df["Demographic"] == "Men" and df["Category"] == "Gender"]["Total"].values[0]

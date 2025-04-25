@@ -1,0 +1,1 @@
+res = df[df["observation_date"] == "2023-09-01"]["PSAVERT"].values[0]

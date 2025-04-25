@@ -1,0 +1,1 @@
+res = df[df["Month"] == "Dec-23"]["Number of unemployed persons per job opening"].values[0]

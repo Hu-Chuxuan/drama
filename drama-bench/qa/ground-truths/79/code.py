@@ -1,0 +1,1 @@
+highest_growth_occupation = df.loc[df["Child care as a percentage of median family income"].idxmax()]["State"]

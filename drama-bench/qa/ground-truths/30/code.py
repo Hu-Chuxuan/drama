@@ -1,0 +1,1 @@
+res = df[df["Group"] == "Teens"]["Participation rate"].values[0]

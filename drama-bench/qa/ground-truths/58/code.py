@@ -1,0 +1,1 @@
+res = df.loc[df["Annual mean wage"].idxmax()]["Industry sector"]

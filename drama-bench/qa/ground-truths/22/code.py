@@ -1,0 +1,1 @@
+res = df[df["Characteristic"] == "Metropolitan"]["2023"].values[0]

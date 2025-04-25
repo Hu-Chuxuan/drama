@@ -1,0 +1,1 @@
+res = df.loc[df["Percentile"] == 50]["Annual Wage"]
