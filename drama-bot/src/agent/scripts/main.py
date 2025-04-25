@@ -47,7 +47,7 @@ def main():
     parser.add_argument("--report_folder", type=str, default="reports")
     args = parser.parse_args()
 
-    output_path = f"traces-{args.task}/{args.id}"
+    output_path = f"traces/{args.task}/{args.id}"
     report_folder = f"{args.report_folder}/{args.task}"
     os.makedirs(report_folder, exist_ok=True)
 

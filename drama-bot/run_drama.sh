@@ -10,7 +10,7 @@ fi
 
 for ID in {1..100}; do
   echo "Running $TASK for ID $ID..."
-  poetry run test-drama-bench \
+  poetry run run-drama \
     --model "gpt-4o-2024-11-20" \
     --id "$ID" \
     --task "$TASK" \

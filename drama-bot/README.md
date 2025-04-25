@@ -64,7 +64,7 @@ Replace `[qa|verification]` with the desired task type. For example:
 You can also run individual tasks with more granular control:
 
 ```bash
-poetry run test-drama-bench \
+poetry run run-drama \
   --model "gpt-4o-2024-11-20" \
   --id 1 \
   --task qa \
@@ -73,4 +73,4 @@ poetry run test-drama-bench \
 
 ## 📁 Result Collection
 
-All execution outputs will be automatically saved in the `./reports` directory for further analysis and evaluation.
+All execution outputs will be automatically saved in the `./reports` directory (or in the location specified by `--report_folder`) for further analysis and evaluation. Detailed agent traces are stored in the `./traces` directory.
