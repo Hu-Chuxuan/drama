@@ -25,7 +25,8 @@ We develop **DramaBot**, a multi-agent system built following the DRAMA paradigm
 Evaluated against four state-of-the-art baselines on DramaBench, DramaBot achieves **86.5% accuracy** at **\$0.05 cost**, outperforming all baselines by up to **6.9x the accuracy** and using **less than 1/6 the cost**.
 
 ## 📊 Dataset: DramaBench
-![DramaBot Architecture](./assets/dramabench.png)
+<img src="./assets/dramabench.png" alt="DramaBench Task Desc" width="60%"/>
+
 DramaBench (`drama-bench/`) is composed of two task types:
 
 ### QA Tasks (`qa/query.json`)
